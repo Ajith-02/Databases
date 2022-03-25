@@ -1,0 +1,19 @@
+SQL → Structures Query Language
+
+NoSQL → Not Only Structured Query Language
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4f5776bd-1029-4c43-a4a3-3643fb643682/Untitled.png)
+
+SQL group the data into Table
+
+NoSQL data represented in JSON Object
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/55bf21f9-9b0a-4a66-9324-826b114b6a91/Untitled.png)
+
+SQL is Relational
+
+NoSQL is Non-Relational
+
+Orders, Customer details, Product details, inventory - things have lot of relationship with each other the use SQL
+
+website, one to many relationships, user name, first name last name, single-user creating many post relationships use NoSQL
